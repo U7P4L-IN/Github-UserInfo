@@ -32,7 +32,7 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
  ls
 
- python Pro.py
+ python OK.py
 ```
 #### Command Log In :
 ```python
