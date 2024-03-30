@@ -74,7 +74,7 @@ python main.py
 
 <h2 align="center">LICENSE</h2>
 
-FB AUTO Github-UserInfo is released under the AGPL-3.0 license, which grants the following permissions:
+Github-UserInfo is released under the MIT license, which grants the following permissions:
 - Commercial use
 - Modification
 - Distribution
