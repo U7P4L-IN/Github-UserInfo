@@ -66,12 +66,12 @@ python main.py
 <h3 align="center"><b>TERMUX > </b></h3>
 
 <p align="center"><img src="./image/demo1.jpg">
-
+<p align="center"><img src="./image/demo2.jpg">
 <h3 align="center"><b>KALI LINUX > </b></h3>
 
-<p align="center"><img src="./image/demo2.png">
 <p align="center"><img src="./image/demo3.png">
-
+<p align="center"><img src="./image/demo4.png">
+<p align="center"><img src="./image/demo5.png">
 <h2 align="center">LICENSE</h2>
 
 Github-UserInfo is released under the MIT license, which grants the following permissions:
